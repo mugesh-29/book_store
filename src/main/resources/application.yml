@@ -1,0 +1,10 @@
+logging:
+  level:
+    com.example.book_store: DEBUG
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: mydatabase
